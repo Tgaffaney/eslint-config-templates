@@ -7,8 +7,7 @@
     "email": "tylergaffaney@gmail.com"
   },
   "dependencies": {
-    "@tylergaffaney/eslint-config-prettier": "0.2.3",
-    "@tylergaffaney/eslint-config-prettier-typescript": "0.2.3",
+    "@tylergaffaney/eslint-config-prettier-react": "0.2.3",
     "@tylergaffaney/eslint-config-typescript-react": "0.2.3"
   },
   "files": [
