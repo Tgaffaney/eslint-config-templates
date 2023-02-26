@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/tylergaffaney/configs/compare/@tylergaffaney/eslint-config-typescript-react@0.2.1...@tylergaffaney/eslint-config-typescript-react@0.2.2) (2023-02-26)
+
+**Note:** Version bump only for package @tylergaffaney/eslint-config-typescript-react
+
+
+
+
+
 ## 0.2.1 (2023-02-26)
 
 **Note:** Version bump only for package @tylergaffaney/eslint-config-typescript-react

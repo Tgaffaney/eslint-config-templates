@@ -1,7 +1,7 @@
 {
   "name": "@tylergaffaney/eslint-config-vue",
   "description": "tylergaffaney eslint config for Vue.js",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
@@ -9,7 +9,7 @@
   "dependencies": {
     "@babel/core": "^7.14.8",
     "@babel/eslint-parser": "^7.14.7",
-    "@tylergaffaney/eslint-config": "0.2.1",
+    "@tylergaffaney/eslint-config": "0.2.2",
     "eslint-plugin-vue": "^7.14.0"
   },
   "files": [

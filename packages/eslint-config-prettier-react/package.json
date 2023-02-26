@@ -1,14 +1,14 @@
 {
   "name": "@tylergaffaney/eslint-config-prettier-react",
   "description": "tylergaffaney eslint config for React.js with prettier",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
   },
   "dependencies": {
-    "@tylergaffaney/eslint-config-prettier": "0.2.1",
-    "@tylergaffaney/eslint-config-react": "0.2.1"
+    "@tylergaffaney/eslint-config-prettier": "0.2.2",
+    "@tylergaffaney/eslint-config-react": "0.2.2"
   },
   "files": [
     "lib"
