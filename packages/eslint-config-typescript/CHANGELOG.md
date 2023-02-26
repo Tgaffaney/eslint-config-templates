@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.4](https://github.com/tylergaffaney/configs/compare/@tylergaffaney/eslint-config-typescript@0.2.3...@tylergaffaney/eslint-config-typescript@0.2.4) (2023-02-26)
+
+**Note:** Version bump only for package @tylergaffaney/eslint-config-typescript
+
+
+
+
+
 ## [0.2.3](https://github.com/tylergaffaney/configs/compare/@tylergaffaney/eslint-config-typescript@0.2.2...@tylergaffaney/eslint-config-typescript@0.2.3) (2023-02-26)
 
 **Note:** Version bump only for package @tylergaffaney/eslint-config-typescript

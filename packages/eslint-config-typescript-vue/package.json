@@ -1,13 +1,13 @@
 {
   "name": "@tylergaffaney/eslint-config-typescript-vue",
   "description": "tylergaffaney eslint config for TypeScript and Vue.js",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
   },
   "dependencies": {
-    "@tylergaffaney/eslint-config-typescript": "0.2.3",
+    "@tylergaffaney/eslint-config-typescript": "0.2.4",
     "@tylergaffaney/eslint-config-vue": "0.2.3"
   },
   "files": [
