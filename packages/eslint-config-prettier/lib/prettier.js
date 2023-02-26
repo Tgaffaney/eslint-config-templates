@@ -18,8 +18,10 @@ module.exports = {
 
   // Rules overrides
   rules: {
-    "prettier/prettier": "error",
-    "singleQuote": true,
-    "quoteProps": "as-needed"
+    "prettier/prettier": ["error",
+    {
+      "singleQuote": true,
+      "quoteProps": "as-needed"
+    }]
   },
 };
