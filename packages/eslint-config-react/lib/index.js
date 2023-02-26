@@ -14,7 +14,6 @@ module.exports = {
       jsx: true,
     },
   },
-
   settings: {
     "import/resolver": {
       node: {
