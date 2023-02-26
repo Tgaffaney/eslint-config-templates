@@ -1,14 +1,14 @@
 {
   "name": "@tylergaffaney/eslint-config-prettier-vue",
   "description": "tylergaffaney eslint config for Vue.js with prettier",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
   },
   "dependencies": {
-    "@tylergaffaney/eslint-config-prettier": "0.2.5",
-    "@tylergaffaney/eslint-config-vue": "0.2.3"
+    "@tylergaffaney/eslint-config-prettier": "0.2.6",
+    "@tylergaffaney/eslint-config-vue": "0.2.4"
   },
   "files": [
     "lib"
