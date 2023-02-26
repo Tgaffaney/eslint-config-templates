@@ -1,13 +1,13 @@
 {
   "name": "@tylergaffaney/eslint-config-prettier",
   "description": "tylergaffaney eslint config with prettier",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
   },
   "dependencies": {
-    "@tylergaffaney/eslint-config": "0.2.0",
+    "@tylergaffaney/eslint-config": "0.2.1",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-prettier": "^3.3.1",
     "prettier": "^2.2.1"

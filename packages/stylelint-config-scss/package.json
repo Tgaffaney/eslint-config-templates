@@ -1,13 +1,13 @@
 {
   "name": "@tylergaffaney/stylelint-config-scss",
   "description": "tylergaffaney stylelint config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
   },
   "dependencies": {
-    "@tylergaffaney/stylelint-config": "0.2.0",
+    "@tylergaffaney/stylelint-config": "0.2.1",
     "stylelint-scss": "^3.19.0"
   },
   "files": [

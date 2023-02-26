@@ -1,14 +1,14 @@
 {
   "name": "@tylergaffaney/eslint-config-prettier-typescript",
   "description": "tylergaffaney eslint config for TypeScript with prettier",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
   },
   "dependencies": {
-    "@tylergaffaney/eslint-config-prettier": "0.2.0",
-    "@tylergaffaney/eslint-config-typescript": "0.2.0"
+    "@tylergaffaney/eslint-config-prettier": "0.2.1",
+    "@tylergaffaney/eslint-config-typescript": "0.2.1"
   },
   "files": [
     "lib"

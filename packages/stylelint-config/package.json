@@ -1,7 +1,7 @@
 {
   "name": "@tylergaffaney/stylelint-config",
   "description": "tylergaffaney stylelint config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
