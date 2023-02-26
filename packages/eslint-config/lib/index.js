@@ -35,5 +35,20 @@ module.exports = {
      * @see https://eslint.org/docs/rules/comma-dangle
      */
     "comma-dangle": ["error", "always-multiline"],
+
+    "no-console": [
+      "warn",
+      {
+        "allow": [
+          "warn",
+          "error"
+        ]
+      }
+    ],
+
+    "curly": [
+      "error",
+      "multi"
+    ]
   },
 };
