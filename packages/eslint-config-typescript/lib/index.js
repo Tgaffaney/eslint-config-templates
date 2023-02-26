@@ -109,7 +109,7 @@ module.exports = {
 
     // @see https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/semi.md
     semi: "off",
-    "@typescript-eslint/semi": ["error", "never"],
+    "@typescript-eslint/semi": ["error", "always"],
 
     // @see https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/space-before-function-paren.md
     "space-before-function-paren": "off",
