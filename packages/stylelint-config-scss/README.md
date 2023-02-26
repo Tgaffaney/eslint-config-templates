@@ -9,9 +9,9 @@ Credit:  Forked from [ntnyq](https://github.com/ntnyq/configs)
 ### Install
 
 ```bash
-$ npm i @YOUR_SCOPE/stylelint-config-scss -D
+$ npm i @tylergaffaney/stylelint-config-scss -D
 # OR
-$ yarn add @YOUR_SCOPE/stylelint-config-scss -D
+$ yarn add @tylergaffaney/stylelint-config-scss -D
 ```
 
 ### Extend this config
@@ -20,7 +20,7 @@ in `.stylelintrc.yml`
 
 ```yaml
 extends:
-  - @YOUR_SCOPE/stylelint-config-scss
+  - @tylergaffaney/stylelint-config-scss
 ```
 
 in `package.json`
@@ -28,7 +28,7 @@ in `package.json`
 ```json
 {
     "stylelint": {
-        "extends": ["@YOUR_SCOPE/stylelint-config-scss"]
+        "extends": ["@tylergaffaney/stylelint-config-scss"]
     }
 }
 ```

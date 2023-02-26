@@ -3,5 +3,5 @@
  */
 
 module.exports = {
-  extends: ["@YOUR_SCOPE/react", "@YOUR_SCOPE/prettier"],
+  extends: ["@tylergaffaney/react", "@tylergaffaney/prettier"],
 };

@@ -3,7 +3,7 @@
  */
 
 module.exports = {
-  extends: ["@YOUR_SCOPE/vue", "@YOUR_SCOPE/typescript"],
+  extends: ["@tylergaffaney/vue", "@tylergaffaney/typescript"],
 
   // Override the `parser` in vue and typescript rules
   parser: "vue-eslint-parser",

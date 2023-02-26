@@ -6,7 +6,7 @@
 
 module.exports = {
   extends: [
-    "@YOUR_SCOPE",
+    "@tylergaffaney",
     // Vue style guide
     "plugin:vue/recommended",
   ],

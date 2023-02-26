@@ -3,5 +3,5 @@
  */
 
 module.exports = {
-  extends: ["@YOUR_SCOPE/vue", "@YOUR_SCOPE/prettier"],
+  extends: ["@tylergaffaney/vue", "@tylergaffaney/prettier"],
 };

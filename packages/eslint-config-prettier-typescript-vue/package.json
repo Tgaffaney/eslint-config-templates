@@ -1,21 +1,21 @@
 {
-  "name": "@YOUR_SCOPE/eslint-config-prettier-typescript-vue",
-  "description": "YOUR_SCOPE eslint config for TypeScript and Vue.js with Prettier",
+  "name": "@tylergaffaney/eslint-config-prettier-typescript-vue",
+  "description": "tylergaffaney eslint config for TypeScript and Vue.js with Prettier",
   "version": "0.2.0",
   "author": {
-    "name": "YOUR_NAME",
-    "email": "YOUR_SCOPE@gmail.com"
+    "name": "Tyler Gaffaney",
+    "email": "tylergaffaney@gmail.com"
   },
   "dependencies": {
-    "@YOUR_SCOPE/eslint-config-prettier": "0.2.0",
-    "@YOUR_SCOPE/eslint-config-typescript-vue": "0.2.0"
+    "@tylergaffaney/eslint-config-prettier": "0.2.0",
+    "@tylergaffaney/eslint-config-typescript-vue": "0.2.0"
   },
   "files": [
     "lib"
   ],
-  "homepage": "https://github.com/YOUR_SCOPE/configs#readme",
+  "homepage": "https://github.com/tylergaffaney/configs#readme",
   "keywords": [
-    "YOUR_SCOPE",
+    "tylergaffaney",
     "eslint-config",
     "prettier",
     "typescript",
@@ -26,5 +26,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "YOUR_SCOPE/configs.git"
+  "repository": "tylergaffaney/configs.git"
 }
