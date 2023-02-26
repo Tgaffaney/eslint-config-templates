@@ -3,5 +3,5 @@
  */
 
 module.exports = {
-  extends: ["@tylergaffaney/vue", "@tylergaffaney/prettier"],
+  extends: ["@tylergaffaney/eslint-config-vue", "@tylergaffaney/eslint-config-prettier"],
 };

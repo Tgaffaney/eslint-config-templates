@@ -4,8 +4,8 @@
 
 module.exports = {
   extends: [
-    "@tylergaffaney/typescript-vue",
-    "@tylergaffaney/prettier-vue",
-    "@tylergaffaney/prettier-typescript",
+    "@tylergaffaney/eslint-config-typescript-vue",
+    "@tylergaffaney/eslint-config-prettier-vue",
+    "@tylergaffaney/eslint-config-prettier-typescript",
   ],
 };

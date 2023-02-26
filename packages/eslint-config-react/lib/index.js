@@ -4,7 +4,7 @@
 
 module.exports = {
   extends: [
-    "@tylergaffaney",
+    "@tylergaffaney/eslint-config",
     "plugin:react/recommended",
     "plugin:jsx-a11y/recommended",
   ],

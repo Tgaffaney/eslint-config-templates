@@ -4,8 +4,7 @@
 
 module.exports = {
   extends: [
-    "@tylergaffaney/typescript-react",
-    "@tylergaffaney/prettier-typescript",
-    "@tylergaffaney/prettier-react",
+    "@tylergaffaney/eslint-config-typescript-react",
+    "@tylergaffaney/eslint-config-prettier-react",
   ],
 };

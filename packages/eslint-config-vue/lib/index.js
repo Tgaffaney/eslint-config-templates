@@ -6,7 +6,7 @@
 
 module.exports = {
   extends: [
-    "@tylergaffaney",
+    "@tylergaffaney/eslint-config",
     // Vue style guide
     "plugin:vue/recommended",
   ],

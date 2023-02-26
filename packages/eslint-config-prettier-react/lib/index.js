@@ -3,5 +3,5 @@
  */
 
 module.exports = {
-  extends: ["@tylergaffaney/react", "@tylergaffaney/prettier"],
+  extends: ["@tylergaffaney/eslint-config-react", "@tylergaffaney/eslint-config-prettier"],
 };
