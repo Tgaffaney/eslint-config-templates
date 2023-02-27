@@ -1,14 +1,14 @@
 {
   "name": "@tylergaffaney/eslint-config-typescript-react",
   "description": "tylergaffaney eslint config for TypeScript and React.js",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
   },
   "dependencies": {
-    "@tylergaffaney/eslint-config-react": "0.2.4",
-    "@tylergaffaney/eslint-config-typescript": "0.2.5"
+    "@tylergaffaney/eslint-config-react": "0.2.5",
+    "@tylergaffaney/eslint-config-typescript": "0.2.6"
   },
   "files": [
     "lib"

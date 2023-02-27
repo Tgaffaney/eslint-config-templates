@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.11](https://github.com/tylergaffaney/configs/compare/@tylergaffaney/eslint-config-prettier-typescript@0.2.10...@tylergaffaney/eslint-config-prettier-typescript@0.2.11) (2023-02-27)
+
+**Note:** Version bump only for package @tylergaffaney/eslint-config-prettier-typescript
+
+
+
+
+
 ## [0.2.10](https://github.com/tylergaffaney/configs/compare/@tylergaffaney/eslint-config-prettier-typescript@0.2.9...@tylergaffaney/eslint-config-prettier-typescript@0.2.10) (2023-02-27)
 
 **Note:** Version bump only for package @tylergaffaney/eslint-config-prettier-typescript

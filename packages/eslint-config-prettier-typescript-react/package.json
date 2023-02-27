@@ -1,14 +1,14 @@
 {
   "name": "@tylergaffaney/eslint-config-prettier-typescript-react",
   "description": "tylergaffaney eslint config for TypeScript and React.js with Prettier",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
   },
   "dependencies": {
-    "@tylergaffaney/eslint-config-prettier-react": "0.2.9",
-    "@tylergaffaney/eslint-config-typescript-react": "0.2.5"
+    "@tylergaffaney/eslint-config-prettier-react": "0.2.10",
+    "@tylergaffaney/eslint-config-typescript-react": "0.2.6"
   },
   "files": [
     "lib"

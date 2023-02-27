@@ -1,7 +1,7 @@
 {
   "name": "@tylergaffaney/eslint-config",
   "description": "tylergaffaney eslint config",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "author": {
     "name": "Tyler Gaffaney",
     "email": "tylergaffaney@gmail.com"
