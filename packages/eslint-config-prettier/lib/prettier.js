@@ -12,6 +12,7 @@ module.exports = {
 
   plugins: [
     // Use `eslint-plugin-prettier` to intergrade prettier to eslint workflow
+    "eslint-plugin-prettier",
     "prettier",
     "simple-import-sort"
   ],
