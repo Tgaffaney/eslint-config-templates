@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.13](https://github.com/tylergaffaney/configs/compare/@tylergaffaney/eslint-config-prettier-typescript-react@0.2.12...@tylergaffaney/eslint-config-prettier-typescript-react@0.2.13) (2023-02-27)
+
+**Note:** Version bump only for package @tylergaffaney/eslint-config-prettier-typescript-react
+
+
+
+
+
 ## [0.2.12](https://github.com/tylergaffaney/configs/compare/@tylergaffaney/eslint-config-prettier-typescript-react@0.2.11...@tylergaffaney/eslint-config-prettier-typescript-react@0.2.12) (2023-02-27)
 
 **Note:** Version bump only for package @tylergaffaney/eslint-config-prettier-typescript-react
