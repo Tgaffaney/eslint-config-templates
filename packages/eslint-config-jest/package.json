@@ -1,0 +1,27 @@
+{
+  "name": "@tylergaffaney/eslint-config-jest",
+  "description": "tylergaffaney eslint config jest",
+  "version": "0.2.3",
+  "author": {
+    "name": "Tyler Gaffaney",
+    "email": "tylergaffaney@gmail.com"
+  },
+  "dependencies": {
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-jest": "^26.9.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/tylergaffaney/configs#readme",
+  "keywords": [
+    "tylergaffaney",
+    "eslint-config-jest"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "tylergaffaney/configs.git"
+}
