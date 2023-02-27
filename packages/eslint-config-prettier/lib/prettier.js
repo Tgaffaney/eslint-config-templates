@@ -14,7 +14,7 @@ module.exports = {
     // Use `eslint-plugin-prettier` to intergrade prettier to eslint workflow
     "eslint-plugin-prettier",
     "prettier",
-    "simple-import-sortf"
+    "simple-import-sort"
   ],
 
   // Rules overrides
@@ -23,6 +23,8 @@ module.exports = {
     {
       "singleQuote": true,
       "quoteProps": "as-needed"
-    }]
+    }],
+    "simple-import-sort/imports": "error",
+    "simple-import-sort/exports": "error"
   },
 };
