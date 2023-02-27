@@ -3,8 +3,8 @@ module.exports = {
   env: {
     node: true,
     es6: true,
-    browser: true,
   },
+
   parserOptions: {
     ecmaVersion: 8,
   },
@@ -40,16 +40,10 @@ module.exports = {
     "no-console": [
       "warn",
       {
-        "allow": [
-          "warn",
-          "error"
-        ]
-      }
+        allow: ["warn", "error"],
+      },
     ],
 
-    "curly": [
-      "error",
-      "multi"
-    ]
+    curly: ["error", "multi"],
   },
 };
