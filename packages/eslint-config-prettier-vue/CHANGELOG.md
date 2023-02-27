@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.8](https://github.com/tylergaffaney/configs/compare/@tylergaffaney/eslint-config-prettier-vue@0.2.7...@tylergaffaney/eslint-config-prettier-vue@0.2.8) (2023-02-27)
+
+**Note:** Version bump only for package @tylergaffaney/eslint-config-prettier-vue
+
+
+
+
+
 ## [0.2.7](https://github.com/tylergaffaney/configs/compare/@tylergaffaney/eslint-config-prettier-vue@0.2.6...@tylergaffaney/eslint-config-prettier-vue@0.2.7) (2023-02-27)
 
 **Note:** Version bump only for package @tylergaffaney/eslint-config-prettier-vue
